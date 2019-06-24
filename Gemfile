@@ -10,7 +10,7 @@ gem 'faker'
 gem 'listen'
 
 group :development, :test do
-  gem 'pry'
+  gem 'byebug'
   gem 'capybara'
   gem 'rspec-rails'
 end
